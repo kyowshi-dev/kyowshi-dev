@@ -37,8 +37,8 @@ Here are the technologies, languages, and tools I work with:
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Kyowshi-dev&show_icons=true&theme=radical" alt="Kyowshi-dev's GitHub stats" height="180px" />
-<img src="https://github-readme-top-langs.vercel.app/api/?username=Kyowshi-dev&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=kyowshi-dev&show_icons=true&theme=radical" alt="Kyowshi-dev's GitHub stats" height="180px" />
+<img src="https://github-readme-top-langs.vercel.app/api/?username=kyowshi-dev&layout=compact&theme=radical" alt="Top Langs" height="180px" />
 </p>
 
 ---
@@ -46,7 +46,12 @@ Here are the technologies, languages, and tools I work with:
 ### 🤝 Connect with Me
 
 *   🌐 **Portfolio:** *[Coming Soon]*
-*   💼 **LinkedIn:** *[Your LinkedIn Link]*
-*   📧 **Email:** *[Your Email Address]*
+*   💼 **LinkedIn:** *https://www.linkedin.com/in/charlz-personal-64a00741b*
+*   📧 **Email:** *chsa.chavaria.coc@phinmaed.com*
+
+  Language Spoken:
+  English: Conversational
+  Tagalog: Conversational
+  Bisaya: Fluent
 
 *“Let's build something efficient together!”*

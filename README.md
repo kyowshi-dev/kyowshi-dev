@@ -2,21 +2,21 @@
 
 ### 🚀 Aspiring Web Developer | Tech Enthusiast | Problem Solver
 
-I'm a 21-year-old developer passionate about crafting efficient web applications, optimizing workflows, and building cool things for the internet. Currently honing my craft while studying at **PHINMA Cagayan de Oro College (COC)**.
+I'm a 21-year-old developer passionate about designing efficient and useful web applications, optimizing workflows, and building cool things for the internet. Currently grinding hours and dying while studying at **PHINMA Cagayan de Oro College (COC)**.
 
-> "Intelligence is the ability to avoid doing work, yet getting the work done.
+> "Intelligence is the ability to avoid doing work, yet getting the work done. "
 >
-> " 
-> — **Linus Torvalds**, Creator of Git & Linux
+> 
+>— **Linus Torvalds**
 
 ---
 
 ### 💫 About Me
 
-*   🌱 I’m currently diving deep into advanced **PHP Laravel** and containerization with **Docker**.
-*   💻 I focus on writing clean, maintainable code and building robust backend architectures.
-*   🛠️ Big fan of the **TALL Stack** for rapid, reactive web development.
-*   ⚡ Fun fact: Like Linus, I strongly believe in automation. If I have to do a task manually more than twice, I'll probably spend three hours writing a script to automate it.
+*   I’m currently diving deep into advanced **PHP Laravel** and containerization with **Docker**.
+*   I focus on writing clean, maintainable code and building robust backend architectures.
+*   Big fan of the **TALL Stack** for rapid, reactive web development.
+*   Fun fact: Like Linus, I strongly believe in automation. If I have to do a task manually more than twice, I'll probably spend three hours writing a script to automate it.
 
 ---
 
@@ -26,7 +26,7 @@ Here are the technologies, languages, and tools I work with:
 
 | Category | Technologies |
 | :--- | :--- |
-| **The TALL Stack** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=black) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
+| **The TALL Stack** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=black) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) |
 | **Frontend Base** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Backend & Scripting** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **Databases** | ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) |

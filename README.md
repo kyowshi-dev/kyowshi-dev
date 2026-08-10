@@ -2,7 +2,7 @@
 
 ### Web Development | System Design | IT Business Solution
 
-I'm a 21-year-old developer passionate about designing efficient and useful web applications, optimizing workflows, and building cool things for the internet. Currently grinding hours and dying while studying at **PHINMA Cagayan de Oro College (COC)**.
+21 Years Old Student from **PHINMA Cagayan de Oro College (COC)**, currently exploring the TALL stack (Twcss, Alpine.js, Livewire, and Laravel). The great choice for designing and creating scalable projects in agile-rapid development like BHCIS.     
 
 > "I believe that all IT solutions should aspire to be reliable and efficient"
 
@@ -13,7 +13,7 @@ I'm a 21-year-old developer passionate about designing efficient and useful web 
 *   I’m currently developing BHCIS for undisclosed brgy. health center client for capstone 2  
 *   I am based in Cagayan de Oro City, Misamis Oriental, Philippines.
 *   Currently exploring PHP Laravel Framework in TALL Stack.
-*   I love game development but my current set-up is not strong enough for heavy graphics rendering and multi-tasking.  
+*   I love game development but my current setup is not strong enough for unity graphics rendering and multi-tasking.  
 
 *   ---
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Charlz Chavaria aka kyowshi-dev on GITHUB! 
 
-### Web Development | System Design | IT Business Solution
+### Web Development | System Design | System Analysis
 
 21 Years Old Student from **PHINMA Cagayan de Oro College (COC)**, currently exploring the TALL stack (Twcss, Alpine.js, Livewire, and Laravel). The great choice for designing and creating scalable projects in agile-rapid development like BHCIS.     
 

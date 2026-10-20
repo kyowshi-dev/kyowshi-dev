@@ -41,7 +41,7 @@ const kyowshi = {
 | Repo | Description | Stack |
 |------|-------------|-------|
 | [**bhcis-main**](https://github.com/kyowshi-dev/bhcis-main) | Barangay Health Center Information System for Sta. Ana - maternal care, immunization, consultations, referrals, and reports | ![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat-square&logo=laravel&logoColor=red) |
-
+|[**phinma-adventure-2d**](https://charlz1.itch.io/the-dead-streets-2d) | The Dead Street - A Top-down shooter game project using Unity Game Engine and C#, all assets are outsourced free on itch.io | ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 </details>
 
 <details>

@@ -26,7 +26,7 @@ const kyowshi = {
   location:   "Misamis Oriental, Philippines",
   stacks:     ["PHP", "JavaScript", "HTML", "Laravel", "Alpine.js"],
   philosophy: "Lightweight. Cost-effective. Alternative tech.",
-  currently:  "Building swiiift.com — my platform & research into web dev reality"
+  currently:  "Finding OJT job right now, building my portfolio"
 };
 ```
 
@@ -106,7 +106,7 @@ f6a7b8c  Found a one-in-a-billion bug. Naturally, I'm the one.
 > occasionally encountering bugs that statistically shouldn't exist.
 
 ```
-PING kyowshi-dev (swiiift.com) 56(84) bytes of data.
+PING kyowshi-dev (kyowshi.com) 56(84) bytes of data.
 64 bytes: ttl=64 time=fast ms  ← response time
 ```
 
